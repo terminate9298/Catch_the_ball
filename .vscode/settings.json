@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/terminator/Documents/CTBall/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
