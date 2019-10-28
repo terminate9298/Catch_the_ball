@@ -1,6 +1,7 @@
 # Catch The Ball
 Reinforcement Learning Project to train neural network to catch the ball
 ## The Artificial Neural Network model is trained on Catch the Ball with Reinforcement Learning
+### For Detailed Descriptions Visit my page
 To Run The Model 
 1. Clone the Repo
 2. Activate the VirtualENV by "source bin/activate"
